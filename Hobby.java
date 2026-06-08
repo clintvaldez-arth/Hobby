@@ -5,7 +5,7 @@ displayTraineeHobbyB();
 displayTraineeHobbyC();
 }
 
-public static void displayTraineeHobbyX() {
+public static void displayTraineeHobbyC() {
 System.out.println("Trainee X’s Hobbies:");
 System.out.println("1.) Gaming");
 System.out.println("2.) Anime");
